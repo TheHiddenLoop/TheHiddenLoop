@@ -1,39 +1,32 @@
-name: GitHub-Profile-Snake
-
-# This workflow runs on a schedule (daily at midnight UTC)
-# and can also be manually triggered.
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at 00:00 UTC
-  workflow_dispatch: # Allows you to run the workflow manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest # Specifies the type of runner to use
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      # Step 1: Checkout your repository
-      # This action checks out your repository, so your workflow can access it.
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animation
-      # This action uses the Platane/snk action to create the SVG.
-      # It uses your GitHub username to fetch contribution data.
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }} # Automatically gets your GitHub username
-          # Specifies the output filenames for the generated SVG (light and dark mode versions)
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 3: Deploy the generated SVG to a new 'output' branch
-      # This action pushes the generated files from the 'dist' folder
-      # to a new branch named 'output' in your repository.
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output # The branch where the generated SVG will be pushed
-          folder: dist # The folder containing the generated SVG
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
