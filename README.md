@@ -87,26 +87,17 @@ const theHiddenLoop = {
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    style="max-width:45%; width:100%; margin:5px;" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="45%"/>
   
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TheHiddenLoop&theme=tokyonight&hide_border=true&count_private=true" 
-    style="max-width:45%; width:100%; margin:5px;" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHiddenLoop&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
 
 </div>
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TheHiddenLoop&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" 
-    style="max-width:90%; width:100%; margin:10px 0;" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheHiddenLoop&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" width="90%"/>
 
-</div>
+</div> 
 
 
 
