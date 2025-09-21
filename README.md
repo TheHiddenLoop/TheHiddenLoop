@@ -1,44 +1,145 @@
-# 👋 Hi there! I'm TheHiddenLoop
+# 🌟 Welcome to My Digital Universe!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&width=600&lines=Hi+there,+I'm+TheHiddenLoop)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TheHiddenLoop&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+</div>
 
-I’m a passionate **full-stack web developer** who loves exploring new project ideas and deepening my knowledge in modern web technologies. My focus is on the **MERN stack**, where I enjoy building scalable applications, crafting REST APIs, modeling data with MongoDB, and securing applications with JWT authentication. Along the way, I’ve also gained experience with integrating file uploads and generating reports to make applications more practical and user-friendly.
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFAB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver+%26+Code+Craftsman;Building+Digital+Experiences)](https://git.io/typing-svg)
 
-As a fresher, one of my proudest achievements is building a complete **ERP system from scratch**, which challenged me to think critically and strengthened my end-to-end development skills. I see debugging as solving puzzles — something I genuinely enjoy — and I always strive for clean, maintainable code. For me, great development is not only about functionality but also about pairing **clean code with clean UI** to deliver the best possible experience.
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="NodeJS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="NextJS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
-</p>
-
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-<p align="center">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
-  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TheHiddenLoop&theme=dark&hide_border=false" height="150" />
-</p>
+```javascript
+const theHiddenLoop = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "HTML", "CSS", "Node.js"],
+    askMeAbout: ["web dev", "tech", "MERN stack", "problem solving"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind CSS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+        },
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "GitHub", "Figma", "VS Code"]
+    },
+    architecture: ["REST APIs", "Single Page Applications", "Microservices"],
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "I debug by talking to my rubber duck 🦆"
+};
+```
+
+### 💡 What Drives Me
+- 🔥 **Passionate** about creating seamless user experiences
+- 🧩 **Love solving puzzles** - debugging is my favorite game
+- 🎯 **Focused on clean code** paired with intuitive UI/UX
+- 📈 **Always learning** and exploring new technologies
+- 🚀 **Goal-oriented** with a drive to build impactful solutions
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  
+  ### 🎨 Frontend Development
+  <p>
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" title="HTML5"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" title="CSS3"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" title="React"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="NextJS" title="Next.js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" title="Tailwind CSS"/>
+  </p>
+
+  ### ⚙️ Backend & Database
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="NodeJS" title="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express" title="Express.js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" title="MySQL"/>
+  </p>
+
+  ### 🔧 Tools & Workflow
+  <p>
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" title="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" title="Figma"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VSCode" title="VS Code"/>
+  </p>
+
+</div>
 
 
-![snake gif](https://raw.githubusercontent.com/TheHiddenLoop/TheHiddenLoop/output/github-snake-dark.svg)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheHiddenLoop&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheHiddenLoop&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/TheHiddenLoop/TheHiddenLoop/output/github-snake-dark.svg)
+
+</div>
 
 
+
+
+
+
+
+---
+
+## 💭 Developer Quotes
+
+<div align="center">
+  
+  > *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+  
+  > *"The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly."* - Donald Knuth
+
+</div>
+
+
+
+
+
+---
+
+<div align="center">
+  
+  ### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  **Thanks for stopping by! Let's build something amazing together! 💫**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
