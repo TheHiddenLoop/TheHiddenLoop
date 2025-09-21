@@ -87,7 +87,7 @@ const theHiddenLoop = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" width="45%"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHiddenLoop&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
 
