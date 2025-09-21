@@ -86,17 +86,19 @@ const theHiddenLoop = {
 ## 📈 GitHub Analytics
 
 <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="45%"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheHiddenLoop&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHiddenLoop&theme=tokyonight&hide_border=true" width="45%"/>
 
 </div>
 
 <div align="center">
-  
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheHiddenLoop&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheHiddenLoop&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" width="90%"/>
 
 </div>
+
 
 ---
 
