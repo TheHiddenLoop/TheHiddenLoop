@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Digital Universe!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TheHiddenLoop&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Angesh+Chauhan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
-const theHiddenLoop = {
+const angeshChauhan = {
     pronouns: "he" | "him",
     code: ["JavaScript", "HTML", "CSS", "Node.js"],
     askMeAbout: ["web dev", "tech", "MERN stack", "problem solving"],
