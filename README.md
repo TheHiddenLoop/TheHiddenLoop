@@ -86,7 +86,7 @@ const angeshChauhan = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="420" src="https://github-stats-extended.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="420" src="https://github-stats-extended.vercel.app/api?username=TheHiddenLoop&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="420" src="https://streak-stats.demolab.com?user=TheHiddenLoop&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
